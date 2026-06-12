@@ -7,7 +7,7 @@
         url = https://github.com/apache/openserverless-cli
         branch = main
 [submodule "operator"]
-        path = operator
+	path = olaris-op
         url = https://github.com/mobs75/openserverless-operator
         branch = feature/add-spark-operator
 [submodule "testing"]
