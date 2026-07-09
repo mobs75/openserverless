@@ -32,19 +32,9 @@
         url = https://github.com/apache/openserverless-task
         branch = main
 [submodule "runtimes"]
-<<<<<<< HEAD
-        path = runtimes
-        url = https://github.com/apache/openserverless-runtimes
-        branch = main
-[submodule "vscode"]
-        path = vscode
-        url = https://github.com/apache/openserverless-vscode-extension
-        branch = main
-=======
 	path = runtimes
 	url = https://github.com/apache/openserverless-runtimes
 	branch = main
->>>>>>> 4c98d3c
 [submodule "openserverless-devcontainer"]
         path = devcontainer
         url = https://github.com/apache/openserverless-devcontainer
