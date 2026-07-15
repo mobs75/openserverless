@@ -9,7 +9,7 @@
 [submodule "operator"]
 	path = olaris-op
         url = https://github.com/mobs75/openserverless-operator
-        branch = feature/add-spark-operator
+        branch = feature/spark-reconciliation-plus-main
 [submodule "testing"]
         path = testing
         url = https://github.com/apache/openserverless-testing
