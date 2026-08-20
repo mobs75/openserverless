@@ -215,6 +215,8 @@ tasks:
           export OPS_BRANCH="{{.OPS_BRANCH}}"
           which ops
           ops -info
+          ops setup docker delete || true
+          touch .secrets
           ./all.sh kind
 
     license:
